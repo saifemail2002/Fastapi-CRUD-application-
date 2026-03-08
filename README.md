@@ -1,4 +1,4 @@
-# Fastapi-CRUD-application-
+# Fastapi-CRUD-application
 A FastAPI project , CRUD based application , using  pydantic , SQLAlchemy and Postgresql
 
 These backend skills were learnt during this project:
